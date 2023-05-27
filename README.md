@@ -11,6 +11,6 @@ Most of the content here is on the Wiki.
 
 Collaborators are welcome! If you have questions or wish to collaborate, please contact me at: 
 
-Robert.Bunge@seeattlecolleges.edu
+Robert.Bunge@seattlecolleges.edu
 
 © 2023. This work is licensed under a CC BY 1.0 license.
